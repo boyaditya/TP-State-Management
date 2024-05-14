@@ -1,16 +1,9 @@
-# tp_state_management
+# TP State Management & Web Service
 
-A new Flutter project.
 
-## Getting Started
+## Anggota Kelompok - C1:
+- 2203488 - BOY ADITYA ROHMAULANA			
+- 2207260 - IMAM CHALISH RAFIDHUL HAQUE
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/boyaditya/TP-State-Management/assets/135103722/0e868bc2-09b1-4a56-823d-45bd03a07f2f)
+![image](https://github.com/boyaditya/TP-State-Management/assets/135103722/f9879943-d7c2-48ae-90e8-3eeda2681a83)
