@@ -14,7 +14,7 @@ class EmployeeCubit extends Cubit<List<EmployeeModel>> {
 
   void fetchEmployees() async {
     final response = await http
-        .get(Uri.parse('http://dummy.restapiexample.com/api/v1/employees'));
+        .get(Uri.parse('http://127.0.0.1:8000/employees'));
     // print(response.body);
     final data = jsonDecode(response.body)["data"];
     setFromJson(data);
